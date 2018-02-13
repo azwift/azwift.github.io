@@ -11,7 +11,7 @@
 #### [](#header-4) Flood-it clone C++
 * [repo](https://git.uwaterloo.ca/azouheir/projects-Ali/tree/master)
 
-#### [](#header-4) [Resume](https://www.dropbox.com/s/2su14a7472h2uxk/Ali%20Bitar%20Resume%20f.pdf?dl=0)
+#### [](#header-4) [Resume](https://www.dropbox.com/s/npglgntb1ol1ajz/Ali%20Bitar%20Resume%20f.pdf?dl=0)
 
 #### [](#header-4) [LinkedIn](https://www.linkedin.com/in/ali-bitar-a30790154/)
 
