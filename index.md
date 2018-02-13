@@ -9,6 +9,6 @@
 * [view](https://www.kongregate.com/games/CrazyDiamondu/bonus-level)
 
 ### [](#header-3) Flood-it clone C++
-* [repo](https://git.uwaterloo.ca/azouheir/projects-Ali)
+* [repo](https://git.uwaterloo.ca/azouheir/projects-Ali/tree/master)
 
 
