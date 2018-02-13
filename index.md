@@ -1,4 +1,3 @@
-### Projects
 
 #### [](#header-4) Google maps extension 
 * [repo](https://github.com/azwift/googleMapsExtension)
