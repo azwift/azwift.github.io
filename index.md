@@ -1,4 +1,4 @@
-### Ali Bitar : Projects
+### Projects
 
 #### [](#header-4) Google Maps Extension
 * [repo](https://github.com/azwift/googleMapsExtension)
