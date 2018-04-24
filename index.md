@@ -1,5 +1,5 @@
 
-#### [](#header-5) Web-related projects
+#### [](#header-3) Web-related projects
 
 #### [](#header-4) Google maps extension 
 * [view](https://azwift.github.io/googleMapsExtension)
@@ -13,7 +13,8 @@
 * [view](https://azwift.github.io/AliRevTestCrowdl)
 * [repo](https://github.com/azwift/AliRevTestCrowdl)
 
-#### [](#header-5) Other projects
+
+#### [](#header-3) Other projects
 
 #### [](#header-4) Javascript bullet-hell game
 * [view](https://www.kongregate.com/games/CrazyDiamondu/bonus-level)
