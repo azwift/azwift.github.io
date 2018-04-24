@@ -1,7 +1,19 @@
 
-#### [](#header-4) Google maps extension 
+#### [](#header-5) Web-related projects
+
+#### [](#header-4) Google maps extension (AJAX, Google maps API)
 * [repo](https://github.com/azwift/googleMapsExtension)
 * [view](https://azwift.github.io/googleMapsExtension)
+
+#### [](#header-4) Welcome (template)
+* [repo](https://github.com/azwift/welcomeflex)
+* [view](https://azwift.github.io/welcomeflex)
+
+#### [](#header-4) Responsive Website example
+* [repo](https://github.com/azwift/AliRevTestCrowdl)
+* [view](https://azwift.github.io/AliRevTestCrowdl)
+
+#### [](#header-5) Other projects
 
 #### [](#header-4) Javascript bullet-hell game
 * [repo](https://github.com/azwift/BonusLevel)
