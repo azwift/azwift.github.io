@@ -2,8 +2,8 @@
 ### [](#header-3) Web-related projects
 
 #### [](#header-4) Google maps extension 
-| [&uarr; Link](https://azwift.github.io/googleMapsExtension) | [&uarr; Repo](https://github.com/azwift/googleMapsExtension)        |
-|:-------------|:------------------|
+|[&uarr; Link](https://azwift.github.io/googleMapsExtension)|[&uarr; Repo](https://github.com/azwift/googleMapsExtension)|
+|:----------------------------------------------------------|:-----------------------------------------------------------|
 
 #### [](#header-4) Welcome (template)
 | [&uarr; Link](https://azwift.github.io/welcomeflex)| [&uarr; Repo](https://github.com/azwift/welcomeflex)
