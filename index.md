@@ -2,19 +2,19 @@
 ### [](#header-3) Web-related projects
 
 #### [](#header-4) Google maps extension 
-[&uArr; Link](https://azwift.github.io/googleMapsExtension) **--------** [&uArr; Repo](https://github.com/azwift/googleMapsExtension)
+[&uArr; Link](https://azwift.github.io/googleMapsExtension) **---------** [&uArr; Repo](https://github.com/azwift/googleMapsExtension)
 
 #### [](#header-4) Welcome (template)
-[&uArr; Link](https://azwift.github.io/welcomeflex) **--------** [&uArr; Repo](https://github.com/azwift/welcomeflex)
+[&uArr; Link](https://azwift.github.io/welcomeflex) **---------** [&uArr; Repo](https://github.com/azwift/welcomeflex)
 
 #### [](#header-4) Responsive Website example
-[&uArr; Link](https://azwift.github.io/AliRevTestCrowdl) **--------** [&uArr; Repo](https://github.com/azwift/AliRevTestCrowdl)
+[&uArr; Link](https://azwift.github.io/AliRevTestCrowdl) **---------** [&uArr; Repo](https://github.com/azwift/AliRevTestCrowdl)
 
 
 ### [](#header-3) Other projects
 
 #### [](#header-4) Javascript bullet-hell game
-[&uArr; Link](https://www.kongregate.com/games/CrazyDiamondu/bonus-level) **--------** [&uArr; Repo](https://github.com/azwift/BonusLevel)
+[&uArr; Link](https://www.kongregate.com/games/CrazyDiamondu/bonus-level) **---------** [&uArr; Repo](https://github.com/azwift/BonusLevel)
 
 #### [](#header-4) Flood-it clone (C++)
 [&uArr; Repo](https://git.uwaterloo.ca/azouheir/projects-Ali/tree/master)
