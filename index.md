@@ -1,6 +1,6 @@
-
+***
 ### [](#header-3) Web-related projects
-
+***
 #### [](#header-4) Google maps extension 
 [&uArr; Link](https://azwift.github.io/googleMapsExtension) **---------** [&uArr; Repo](https://github.com/azwift/googleMapsExtension)
 
@@ -10,8 +10,9 @@
 #### [](#header-4) Responsive Website example
 [&uArr; Link](https://azwift.github.io/AliRevTestCrowdl) **---------** [&uArr; Repo](https://github.com/azwift/AliRevTestCrowdl)
 
-
+***
 ### [](#header-3) Other projects
+***
 
 #### [](#header-4) Javascript bullet-hell game
 [&uArr; Link](https://www.kongregate.com/games/CrazyDiamondu/bonus-level) **---------** [&uArr; Repo](https://github.com/azwift/BonusLevel)
