@@ -1,8 +1,11 @@
 ***
 ### [](#header-3) Web-related projects
 ***
+#### [](#header-4) Json To Table API 
+[&uArr; Link](https://azwift.github.io/JsonTableAPI/src) **---------** [&uArr; Repo](https://github.com/azwift/JsonTableAPI)
+
 #### [](#header-4) Google maps extension 
-[&uArr; Link](https://azwift.github.io/googleMapsExtension) **---------** [&uArr; Repo](https://github.com/azwift/googleMapsExtension)
+[&uArr; Link](https://azwift.github.io/googleMapsExtension/src) **---------** [&uArr; Repo](https://github.com/azwift/googleMapsExtension)
 
 #### [](#header-4) Welcome (template)
 [&uArr; Link](https://azwift.github.io/welcomeflex) **---------** [&uArr; Repo](https://github.com/azwift/welcomeflex)
