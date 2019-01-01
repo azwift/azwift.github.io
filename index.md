@@ -7,6 +7,9 @@
 #### [](#header-4) Json To Table application
 [&uArr; Link](https://azwift.github.io/JsonTableAPI/src) **---------** [&uArr; Repo](https://github.com/azwift/JsonTableAPI)
 
+#### [](#header-4) Minesweeper JS implementation
+[&uArr; Link](https://azwift.github.io/mineswp-js/) **---------** [&uArr; Repo](https://github.com/azwift/mineswp-js)
+
 #### [](#header-4) Welcome (flex example)
 [&uArr; Link](https://azwift.github.io/welcomeflex) **---------** [&uArr; Repo](https://github.com/azwift/welcomeflex)
 
