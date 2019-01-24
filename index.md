@@ -1,11 +1,14 @@
 ***
-### [](#header-3) Web-related projects
+### [](#header-3) Ali Bitar - Personal projects
 ***
 #### [](#header-4) Google maps API application 
 [&uArr; Link](https://azwift.github.io/googleMapsExtension/src) **---------** [&uArr; Repo](https://github.com/azwift/googleMapsExtension)
 
 #### [](#header-4) Json To Table application
-[&uArr; Link](https://azwift.github.io/JsonTableAPI/src) **---------** [&uArr; Repo](https://github.com/azwift/JsonTableAPI)
+[&uArr; Link](https://azwift.github.io/JsonToTable/src) **---------** [&uArr; Repo](https://github.com/azwift/JsonToTable)
+
+#### [](#header-4) Full-Stack Demo application
+[&uArr; Repo](https://github.com/azwift/demo)
 
 #### [](#header-4) Minesweeper JS implementation
 [&uArr; Link](https://azwift.github.io/mineswp-js/) **---------** [&uArr; Repo](https://github.com/azwift/mineswp-js)
