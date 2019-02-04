@@ -22,8 +22,6 @@
 #### [](#header-4) Responsive Website example
 [&uArr; Link](https://azwift.github.io/AliRevTestCrowdl) **---------** [&uArr; Repo](https://github.com/azwift/AliRevTestCrowdl)
 
-#### [](#header-4) Javascript bullet-hell game
-[&uArr; Link](https://www.kongregate.com/games/CrazyDiamondu/bonus-level) **---------** [&uArr; Repo](https://github.com/azwift/BonusLevel)
 ***
 
 #### [](#header-4) [Resume](https://www.dropbox.com/s/ereq6lmt8vnjps4/Ali%20Bitar%20Resume%20a.pdf?dl=0)
